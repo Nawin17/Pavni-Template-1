@@ -185,6 +185,7 @@ header.animated.shrink  .pavni-logo h2{
 }
 header.animated.shrink .navbar-nav .nav-link{
 color:#006400;
+    font-weight: bold;
 }
 /* header.animated.shrink .navbar-expand-md .navbar-nav .nav-item:nth-child(9) .nav-link{
   color:#fff;
